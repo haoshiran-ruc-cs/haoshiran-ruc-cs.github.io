@@ -31,7 +31,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2025.09 - 至今*, <a href="http://info.ruc.edu.cn/index.htm"><img class="jepg" src="/images/0a84c7ea6629a796df1dfa0d91464b8e.jepg" width="20pt"></a> 中国人民大学 信息学院, 中国北京, 本科
+- *2025.09 - 至今*, <a href="http://info.ruc.edu.cn/index.htm"><img class="jpeg" src="/images/0a84c7ea6629a796df1dfa0d91464b8e.jpeg" width="20pt"></a> 中国人民大学 信息学院, 中国北京, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
