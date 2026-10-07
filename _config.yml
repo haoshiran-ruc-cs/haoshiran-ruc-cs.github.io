@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
-description              : "电磁无损检测"
+title                    : "郝是然"
+description              : "向量数据库，KV Cache压缩，RAG"
 repository               : "haoshiran-ruc-cs.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "郝是然"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "中国人民大学"
+  location         : "北京 海淀"
+  employer         : #"暂无"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "暂无"
+  email            : "haoshiran@ruc.edu.cn"
+  researchgate     : "暂无"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "haoshiran-ruc-cs"
   google_plus      :
   keybase          :
   instagram        :
