@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "郝是然"
-description              : "向量数据库\nKV Cache压缩\nRAG"
+description              : "向量数据库"
 repository               : "haoshiran-ruc-cs.github.io"
 google_scholar_stats_use_cdn : false
 
