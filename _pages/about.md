@@ -23,7 +23,7 @@ redirect_from:
 我的研究领域包括：
 - 向量数据库
 - KV Cache压缩
-- RAG（检索增强生成）
+- RAG
 
   
 
@@ -43,9 +43,6 @@ redirect_from:
 ### 中文
 ---
 暂无
-
-
-
 ### 专利
 ---
 暂无
